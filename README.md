@@ -12,4 +12,4 @@ See the Makefile for more details.
 
 Demo of the stand-alone ECMA Script 6 WebAssembly version (in gotscore.html):
 
-
+<img width="1309" height="1025" alt="Screenshot 2025-07-16 at 13 59 24" src="https://github.com/user-attachments/assets/808d1f1a-c9e2-4435-9432-3fea606a6c94" />
